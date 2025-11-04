@@ -5,3 +5,4 @@ From the saved face images, face descriptor using dlib library for each person i
 Face recognition is done via comparing the face descriptors of the currently captured face with the stored face descriptors and if they match the person is verified.
 Using SQlite, a database is created where attendance records are stored.
 Web Interface is used for accessing attendance data on the basis of date and time.
+Link: https://github.com/Shivank16Saxena/College-Face-Attendance-System/edit/main/README.md
